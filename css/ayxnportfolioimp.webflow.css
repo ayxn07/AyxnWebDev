@@ -2728,6 +2728,10 @@ strong {
     place-items: center start;
   }
 
+  .navbar_text {
+    padding-left: .7rem;
+  }
+
   .portfolio_wrapper {
     padding-bottom: 2rem;
   }
