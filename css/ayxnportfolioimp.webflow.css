@@ -2366,7 +2366,7 @@ strong {
 }
 
 .loadingscreen {
-  position: fixed;
+  position: relative;
 }
 
 .div-block-2 {
